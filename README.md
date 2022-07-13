@@ -1,24 +1,12 @@
-### Hi 👋 I'm [Seven Chord](http://svchord.github.io)
+### Hi 👋 I'm [nonofroid](http://nonofroid.github.io)
 
-[![GitHub followers](https://img.shields.io/github/followers/svchord?style=flat-square)](https://github.com/svchord?tab=followers) 
+[![GitHub followers](https://img.shields.io/github/followers/nonofroid?style=flat-square)](https://github.com/nonor4oie?tab=followers) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svchord&layout=compact&langs_count=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nonofroid&repo=Operating-System)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=svchord&show_icons=true&theme=buefy&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonofroid&layout=compact&langs_count=8&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=svchord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nonofroid&show_icons=true&theme=tokyonight)
 
-<!--
-**Zuoqiu-Yingyi/Zuoqiu-Yingyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nonofroid)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
